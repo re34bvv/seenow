@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.abortion.clinic.bahrain.u-ae.top/sitemap.xml
